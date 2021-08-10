@@ -28,5 +28,5 @@ $ cd Nearby_Satellite_Tracker
 #Install Dependencies 
 $ npm install 
 
-#Build Projecy 
+#Run on Local Server
 $ npm start
