@@ -1,0 +1,31 @@
+.sat-setting {
+    position: center;
+    width: 100%;
+    text-align: center;
+    align-content: center;
+    padding: 10px 15px 0 15px;
+    background: #83f1df;
+    border: 1px solid #000000;
+    border-radius: 6px;
+}
+
+.setting-fields {
+    margin: 10px;
+    margin-right: 15px;
+}
+
+.show-nearby {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top:2px;
+}
+
+.show-nearby .ant-form-item-control {
+    text-align: center;
+}
+
+.sat-setting .ant-form-item {
+    margin-bottom: 12px;
+}

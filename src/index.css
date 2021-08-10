@@ -1,0 +1,23 @@
+@import "styles/App.css";
+@import "styles/Header.css";
+@import "styles/Footer.css";
+@import "styles/Main.css";
+@import "styles/SatSetting.css";
+@import "styles/SatelliteList.css";
+@import "styles/WorldMap.css";
+@import "~antd/dist/antd.css";
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Caption&family=Poppins:wght@500&display=swap');
+
+
+body {
+  margin: 0;
+  font-family: 'PT Sans Caption', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(193, 225, 241);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
