@@ -1,7 +1,7 @@
 
 StarTracker is a visualized web application that enables users to track satellites in real time based on the geo-location.  
 
-![alt text](https://github.com/YihanPlus/Starlink/blob/master/src/assets/images/display.png?raw=true)
+![alt text](https://github.com/SarowarSaurav/Nearby_Satellite_Tracker/src/assets/Capture.png?raw=true)
 
 It is also my first practice while learning ReactJS library, mainly focusing on getting familiar with various types of components and their life cycles, as well as data communication.  
 Keep coding and fight on!
