@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Nearby_Satellite_Tracker/static/css/main.506f61b1.chunk.css",
-    "main.js": "/Nearby_Satellite_Tracker/static/js/main.2facd32b.chunk.js",
-    "main.js.map": "/Nearby_Satellite_Tracker/static/js/main.2facd32b.chunk.js.map",
-    "runtime-main.js": "/Nearby_Satellite_Tracker/static/js/runtime-main.53883c41.js",
-    "runtime-main.js.map": "/Nearby_Satellite_Tracker/static/js/runtime-main.53883c41.js.map",
-    "static/css/2.eb77542a.chunk.css": "/Nearby_Satellite_Tracker/static/css/2.eb77542a.chunk.css",
-    "static/js/2.0ba6801a.chunk.js": "/Nearby_Satellite_Tracker/static/js/2.0ba6801a.chunk.js",
-    "static/js/2.0ba6801a.chunk.js.map": "/Nearby_Satellite_Tracker/static/js/2.0ba6801a.chunk.js.map",
-    "index.html": "/Nearby_Satellite_Tracker/index.html",
-    "static/css/2.eb77542a.chunk.css.map": "/Nearby_Satellite_Tracker/static/css/2.eb77542a.chunk.css.map",
-    "static/css/main.506f61b1.chunk.css.map": "/Nearby_Satellite_Tracker/static/css/main.506f61b1.chunk.css.map",
-    "static/js/2.0ba6801a.chunk.js.LICENSE.txt": "/Nearby_Satellite_Tracker/static/js/2.0ba6801a.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Nearby_Satellite_Tracker/static/media/334517.bdeabd94.jpg",
-    "static/media/satellite.f6a4a4f1.png": "/Nearby_Satellite_Tracker/static/media/satellite.f6a4a4f1.png",
-    "static/media/spacex_logo.5a99ad51.svg": "/Nearby_Satellite_Tracker/static/media/spacex_logo.5a99ad51.svg"
+    "main.css": "/Nearby_star_tracking/static/css/main.a664e652.chunk.css",
+    "main.js": "/Nearby_star_tracking/static/js/main.2facd32b.chunk.js",
+    "main.js.map": "/Nearby_star_tracking/static/js/main.2facd32b.chunk.js.map",
+    "runtime-main.js": "/Nearby_star_tracking/static/js/runtime-main.d270090b.js",
+    "runtime-main.js.map": "/Nearby_star_tracking/static/js/runtime-main.d270090b.js.map",
+    "static/css/2.eb77542a.chunk.css": "/Nearby_star_tracking/static/css/2.eb77542a.chunk.css",
+    "static/js/2.fe5248e8.chunk.js": "/Nearby_star_tracking/static/js/2.fe5248e8.chunk.js",
+    "static/js/2.fe5248e8.chunk.js.map": "/Nearby_star_tracking/static/js/2.fe5248e8.chunk.js.map",
+    "index.html": "/Nearby_star_tracking/index.html",
+    "static/css/2.eb77542a.chunk.css.map": "/Nearby_star_tracking/static/css/2.eb77542a.chunk.css.map",
+    "static/css/main.a664e652.chunk.css.map": "/Nearby_star_tracking/static/css/main.a664e652.chunk.css.map",
+    "static/js/2.fe5248e8.chunk.js.LICENSE.txt": "/Nearby_star_tracking/static/js/2.fe5248e8.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Nearby_star_tracking/static/media/334517.bdeabd94.jpg",
+    "static/media/satellite.f6a4a4f1.png": "/Nearby_star_tracking/static/media/satellite.f6a4a4f1.png",
+    "static/media/spacex_logo.5a99ad51.svg": "/Nearby_star_tracking/static/media/spacex_logo.5a99ad51.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.53883c41.js",
+    "static/js/runtime-main.d270090b.js",
     "static/css/2.eb77542a.chunk.css",
-    "static/js/2.0ba6801a.chunk.js",
-    "static/css/main.506f61b1.chunk.css",
+    "static/js/2.fe5248e8.chunk.js",
+    "static/css/main.a664e652.chunk.css",
     "static/js/main.2facd32b.chunk.js"
   ]
 }
